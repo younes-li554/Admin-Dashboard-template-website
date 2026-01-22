@@ -86,8 +86,9 @@ Frontend behavior was tested directly in the browser with valid and invalid data
 git clone https://github.com/your-username/your-repo-name.git
 
 
-```bash
-# 2. Install Backend Dependencies
+```
+## 2. Install Backend Dependencies
+
 cd backend
 npm install
 
@@ -98,7 +99,8 @@ npm install
 # Run the backend
 node server.js
 
-# 3. Install Frontend Dependencies
+## 3. Install Frontend Dependencies
+
 cd frontend
 npm install
 npm start
@@ -106,9 +108,16 @@ npm start
 # The frontend will run on http://localhost:3000
 # The backend will run on http://localhost:5000
 
-# Summary
-# This project demonstrates how to build a real-world admin dashboard using React, Express, and MongoDB.
-# It covers frontend development, backend API creation, database integration, authentication, and security practices.
-# The project is suitable as a portfolio project and a strong foundation for adding advanced features such as task analytics, role management, and deployment.
-# Contributions and improvements are always welcome.
+## Summary
+
+This project demonstrates how to build a real-world admin dashboard using React, Express, and MongoDB.  
+It covers frontend development, backend API creation, database integration, authentication, and security practices.  
+
+The project is suitable as a portfolio project and a strong foundation for adding advanced features such as:
+- Task analytics
+- Role management
+- Deployment  
+
+Contributions and improvements are always welcome.
 ```
+
