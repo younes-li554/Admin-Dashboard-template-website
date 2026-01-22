@@ -92,11 +92,11 @@ git clone https://github.com/your-username/your-repo-name.git
 cd backend
 npm install
 
-# Create a .env file in the backend folder and add:
-# MONGO_URI=your_mongodb_connection_string
-# JWT_SECRET=your_secret_key
+## Create a .env file in the backend folder and add:
+##  MONGO_URI=your_mongodb_connection_string
+## JWT_SECRET=your_secret_key
 
-# Run the backend
+## Run the backend
 node server.js
 
 ## 3. Install Frontend Dependencies
@@ -105,8 +105,8 @@ cd frontend
 npm install
 npm start
 
-# The frontend will run on http://localhost:3000
-# The backend will run on http://localhost:5000
+## The frontend will run on http://localhost:3000
+## The backend will run on http://localhost:5000
 
 ## Summary
 
